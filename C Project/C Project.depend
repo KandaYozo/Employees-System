@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1532382321 source:c:\users\haruchika\desktop\c_tutroials\c project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DataTypes.h"
+	"Prototypes.h"
+
+1532382832 c:\users\haruchika\desktop\c_tutroials\c project\datatypes.h
+	<stdint.h>
+
+1532382938 source:c:\users\haruchika\desktop\c_tutroials\c project\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+
+1532383737 c:\users\haruchika\desktop\c_tutroials\c project\prototypes.h
+	"DataTypes.h"
+
+1532382957 source:c:\users\haruchika\desktop\c_tutroials\c project\greeting messages.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	"DataTypes.h"
+
+1532384348 source:c:\users\haruchika\desktop\c_tutroials\c project\profunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	"DataTypes.h"
+
